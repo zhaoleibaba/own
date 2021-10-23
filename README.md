@@ -8,7 +8,7 @@
   </a>
 </p>
 
-English | [简体中文](./README.zh-CN.md) |  [Spanish](./README.es.md)
+English | [简体中文](./README.zh-CN.md)
 
 ## Introduction
 
